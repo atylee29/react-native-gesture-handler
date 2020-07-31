@@ -1,6 +1,6 @@
 {
-  "name": "react-native-gesture-handler",
-  "version": "1.7.0",
+  "name": "@atylee29/react-native-gesture-handler",
+  "version": "0.0.3",
   "description": "Experimental implementation of a new declarative API for gesture handling in react-native",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -53,7 +53,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/software-mansion/react-native-gesture-handler.git"
+    "url": "git+https://github.com/atylee29/react-native-gesture-handler.git"
   },
   "author": {
     "email": "krzys.magiera@gmail.com",
@@ -62,9 +62,9 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/software-mansion/react-native-gesture-handler/issues"
+    "url": "https://github.com/atylee29/react-native-gesture-handler/issues"
   },
-  "homepage": "https://github.com/software-mansion/react-native-gesture-handler#readme",
+  "homepage": "https://github.com/atylee29/react-native-gesture-handler#readme",
   "dependencies": {
     "@egjs/hammerjs": "^2.0.17",
     "hoist-non-react-statics": "^2.3.1",
